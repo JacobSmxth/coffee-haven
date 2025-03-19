@@ -1,4 +1,3 @@
-
 # Coffee Haven ☕
 
 Your daily haven for exceptional coffee experiences.
