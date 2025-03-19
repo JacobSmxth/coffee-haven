@@ -1,20 +1,27 @@
 @import "tailwindcss";
 
+:root {
+  /* Primary Colors */
+  --coffee-brown: #4A2C2A;
+  --cream: #F5E6D3;
+  --espresso: #2C1810;
 
-  :root {
-    /* Primary Colors */
-    --coffee-brown: #4A2C2A;
-    --cream: #F5E6D3;
-    --espresso: #2C1810;
+  /* Secondary Colors */
+  --caramel: #C67C4E;
+  --mocha: #8B4513;
+  --latte: #E6D5C7;
+  --forest-green: #2F4F4F;
 
-    /* Secondary Colors */
-    --caramel: #C67C4E;
-    --mocha: #8B4513;
-    --latte: #E6D5C7;
-    --forest-green: #2F4F4F;
+  /* Accent Colors */
+  --gold: #D4AF37;
+  --white: #FFFFFF;
+  --black: #1A1A1A;
 
-    /* Accent Colors */
-    --gold: #D4AF37;
-    --white: #FFFFFF;
-    --black: #1A1A1A;
-  }
+  /* Modern Color Variations */
+  --coffee-light: #6B4423;
+  --coffee-dark: #2C1810;
+  --cream-light: #FDF6E9;
+  --cream-dark: #E6D5C7;
+  --accent-gold: #D4AF37;
+  --accent-gold-light: #E5C76B;
+}

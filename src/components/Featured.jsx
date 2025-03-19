@@ -1,23 +1,4 @@
-const featuredItems = [
-  {
-    title: "Haven Latte",
-    description: "Our house specialty with perfectly balanced espresso and silky steamed milk",
-    price: "$4.99",
-    image: "/latte.jpg"
-  },
-  {
-    title: "Signature Cold Brew",
-    description: "Smooth, rich cold brew steeped for 24 hours",
-    price: "$5.49",
-    image: "/coldbrew.jpg"
-  },
-  {
-    title: "Espresso Delight",
-    description: "Pure, bold espresso served with artisanal chocolate",
-    price: "$3.99",
-    image: "/espresso.jpg"
-  }
-];
+import { featuredItems } from '../data/featuredItems';
 
 const Featured = () => {
   return (

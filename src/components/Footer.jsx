@@ -53,7 +53,7 @@ const Footer = () => {
             <div className="flex items-center gap-2">
               <span className="text-sm opacity-80">Developed by JSmitty</span>
               <a
-                href="https://github.com"
+                href="https://github.com/jacobsmxth"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-[#D4AF37] transition-colors duration-300"
